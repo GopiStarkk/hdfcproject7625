@@ -1,3 +1,6 @@
+// Dev made changes to the code.
+// added new features to the website as 
+// per client request
 import java.util.Scanner;  
 import java.lang.Math;  
 import java.io.printer; 
